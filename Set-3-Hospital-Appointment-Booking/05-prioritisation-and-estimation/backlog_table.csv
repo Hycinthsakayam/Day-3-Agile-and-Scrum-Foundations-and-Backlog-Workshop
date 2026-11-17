@@ -1,0 +1,14 @@
+Story,Epic,User story,Priority,Story points
+S7,Rescheduling and Cancellation,"As a patient, I want to cancel my appointment up to 2 hours before the slot, so that the slot is freed for someone else.",value 8 / effort 2,2
+S11,Doctor Schedule Management,"As a doctor, I want to see my appointments for the day in order, so that I can plan my clinic.",value 7 / effort 2,2
+S9,Reminders,"As a patient, I want an SMS and app reminder 24 hours and 2 hours before my appointment, so that I don't forget the visit.",value 9 / effort 3,3
+S1,Booking,"As a patient, I want to search doctors by speciality, hospital and language, so that I find the right doctor.",value 8 / effort 3,3
+S6,Rescheduling and Cancellation,"As a patient, I want to reschedule my appointment to another free slot of the same doctor, so that I don't lose my booking when plans change.",value 8 / effort 3,3
+S10,Reminders,"As a patient, I want to confirm or cancel from the reminder message, so that I can respond in one tap.",value 7 / effort 3,3
+S3,Booking,"As a patient, I want to book a free slot and get a confirmation number, so that my appointment is guaranteed.",value 10 / effort 5,5
+S5,Booking,"As a patient, I want to book for a family member from my account, so that I can manage my parents' visits.",value 6 / effort 3,3
+S2,Booking,"As a patient, I want to see a doctor's free slots for the next 14 days, so that I can pick a convenient time.",value 9 / effort 5,5
+S12,Doctor Schedule Management,"As a doctor, I want to block slots for leave or surgery, so that patients cannot book when I'm unavailable.",value 9 / effort 5,5
+S8,Rescheduling and Cancellation,"As a patient, I want to get a refund when I cancel a prepaid appointment, so that I don't lose money.",value 5 / effort 5,5
+S4,Booking,"As a patient, I want to pay the consultation fee online while booking, so that I skip the billing queue.",value 6 / effort 8,8
+S13,Doctor Schedule Management,"As a receptionist, I want to move all of a doctor's patients to another doctor when the doctor is absent, so that patients are still seen.",value 6 / effort 8,8

@@ -1,0 +1,36 @@
+Issue Id,Issue Type,Summary,Description,Parent Id,Priority,Story Points,Status,Labels
+1,Epic,Browse and Search,Epic E1: Browse and Search,,,,To Do,fresh
+2,Epic,Cart and Checkout,Epic E2: Cart and Checkout,,,,To Do,fresh
+3,Epic,Delivery Tracking,Epic E3: Delivery Tracking,,,,To Do,fresh
+100,Story,To browse products by category and sub-category,"As a customer, I want to browse products by category and sub-category, so that I can find what I need without typing.",1,Highest,3,To Do,fresh
+101,Story,To search products by name and get results even with small spelling mistakes,"As a customer, I want to search products by name and get results even with small spelling mistakes, so that I find items quickly.",1,Highest,5,To Do,fresh
+102,Story,"To filter results by price, brand and veg / non-veg","As a customer, I want to filter results by price, brand and veg / non-veg, so that I narrow a long list to what suits me.",1,High,3,To Do,fresh
+103,Story,To see whether an item is in stock at my nearest store,"As a customer, I want to see whether an item is in stock at my nearest store, so that I don't order something that cannot be delivered.",1,Highest,5,To Do,fresh
+104,Story,To add items to my cart and change quantities,"As a customer, I want to add items to my cart and change quantities, so that I can build my order.
+
+Acceptance criteria:
+- Given I am on the product page of 'Basmati Rice 5kg' which is in stock When I tap 'Add to cart' Then the cart badge shows 1 and the cart total increases by Rs.645
+- Given my cart has 1 'Basmati Rice 5kg' When I change the quantity to 3 Then the line total becomes Rs.1,935 and the cart total is updated",2,Highest,3,To Do,fresh
+105,Story,To apply a coupon code to my cart,"As a customer, I want to apply a coupon code to my cart, so that I get the advertised discount.
+
+Acceptance criteria:
+- Given my cart total is Rs.1,200 and coupon FRESH100 needs a minimum of Rs.999 When I apply FRESH100 Then Rs.100 is deducted and the coupon is shown on the bill
+- Given coupon DIWALI50 expired on 31 Oct 2026 When I apply DIWALI50 Then I see 'This coupon has expired' and the cart total does not change",2,High,3,To Do,fresh
+106,Story,To choose a 2-hour delivery slot,"As a customer, I want to choose a 2-hour delivery slot, so that someone is home when the order arrives.
+
+Acceptance criteria:
+- Given slots for today 6–8 PM have capacity When I choose 6–8 PM Then the slot is reserved for 10 minutes while I pay
+- Given the 6–8 PM slot has no capacity left When I open the slot list Then 6–8 PM is greyed out with 'Full' and cannot be selected",2,Highest,5,To Do,fresh
+107,Story,"To pay by UPI, card or cash on delivery","As a customer, I want to pay by UPI, card or cash on delivery, so that I can pay the way I prefer.
+
+Acceptance criteria:
+- Given I have chosen UPI and my UPI app approves the payment When the payment gateway confirms success Then the order is placed and I see the order number
+- Given my UPI payment is declined When the gateway returns a failure Then the order is not placed, the cart is kept and I can retry or choose another method",2,Highest,8,To Do,fresh
+108,Story,To reorder a previous order in one tap,"As a returning customer, I want to reorder a previous order in one tap, so that my weekly shopping takes a minute.",2,Medium,2,To Do,fresh
+109,Story,"To see my order status (packed, out for delivery, delivered)","As a customer, I want to see my order status (packed, out for delivery, delivered), so that I know when to expect it.
+
+Acceptance criteria:
+- Given my order is packed at the store When the delivery partner picks it up Then my order status changes to 'Out for delivery' within 1 minute",3,Highest,3,To Do,fresh
+110,Story,To get a notification when my order is out for delivery,"As a customer, I want to get a notification when my order is out for delivery, so that I can be ready at the door.",3,High,2,To Do,fresh
+111,Story,To report a missing or damaged item after delivery,"As a customer, I want to report a missing or damaged item after delivery, so that I get a refund without calling the store.",3,High,5,To Do,fresh
+112,Story,To track the delivery partner live on a map,"As a customer, I want to track the delivery partner live on a map, so that I know exactly how far away they are.",3,Lowest,13,To Do,fresh

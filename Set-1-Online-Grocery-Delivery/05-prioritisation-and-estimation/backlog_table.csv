@@ -1,0 +1,14 @@
+Story,Epic,User story,Priority,Story points
+S8,Cart and Checkout,"As a customer, I want to pay by UPI, card or cash on delivery, so that I can pay the way I prefer.",Must,8
+S2,Browse and Search,"As a customer, I want to search products by name and get results even with small spelling mistakes, so that I find items quickly.",Must,5
+S4,Browse and Search,"As a customer, I want to see whether an item is in stock at my nearest store, so that I don't order something that cannot be delivered.",Must,5
+S7,Cart and Checkout,"As a customer, I want to choose a 2-hour delivery slot, so that someone is home when the order arrives.",Must,5
+S1,Browse and Search,"As a customer, I want to browse products by category and sub-category, so that I can find what I need without typing.",Must,3
+S5,Cart and Checkout,"As a customer, I want to add items to my cart and change quantities, so that I can build my order.",Must,3
+S10,Delivery Tracking,"As a customer, I want to see my order status (packed, out for delivery, delivered), so that I know when to expect it.",Must,3
+S12,Delivery Tracking,"As a customer, I want to report a missing or damaged item after delivery, so that I get a refund without calling the store.",Should,5
+S3,Browse and Search,"As a customer, I want to filter results by price, brand and veg / non-veg, so that I narrow a long list to what suits me.",Should,3
+S6,Cart and Checkout,"As a customer, I want to apply a coupon code to my cart, so that I get the advertised discount.",Should,3
+S11,Delivery Tracking,"As a customer, I want to get a notification when my order is out for delivery, so that I can be ready at the door.",Should,2
+S9,Cart and Checkout,"As a returning customer, I want to reorder a previous order in one tap, so that my weekly shopping takes a minute.",Could,2
+S13,Delivery Tracking,"As a customer, I want to track the delivery partner live on a map, so that I know exactly how far away they are.",Won't (this release),13

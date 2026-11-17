@@ -1,0 +1,31 @@
+Issue Id,Issue Type,Summary,Description,Parent Id,Priority,Story Points,Status,Labels
+1,Epic,Booking,Epic E1: Booking,,,,To Do,care
+2,Epic,Rescheduling and Cancellation,Epic E2: Rescheduling and Cancellation,,,,To Do,care
+3,Epic,Reminders,Epic E3: Reminders,,,,To Do,care
+4,Epic,Doctor Schedule Management,Epic E4: Doctor Schedule Management,,,,To Do,care
+100,Story,"To search doctors by speciality, hospital and language","As a patient, I want to search doctors by speciality, hospital and language, so that I find the right doctor.",1,Medium,3,To Do,care
+101,Story,To see a doctor's free slots for the next 14 days,"As a patient, I want to see a doctor's free slots for the next 14 days, so that I can pick a convenient time.",1,Medium,5,To Do,care
+102,Story,To book a free slot and get a confirmation number,"As a patient, I want to book a free slot and get a confirmation number, so that my appointment is guaranteed.
+
+Acceptance criteria:
+- Given Dr. Ramesh Iyer has a free slot at 10:30 on 20-Nov-2026 When I select 10:30 and confirm Then the slot is booked, I get confirmation number APT-48213 and an SMS
+- Given another patient books the 10:30 slot while I am on the confirm screen When I tap confirm Then I see 'This slot was just taken' with the next 3 free slots, and no booking is created for me
+- Given I already have an appointment at 10:30 on 20-Nov-2026 When I try to book another doctor at 10:30 the same day Then I see 'You already have an appointment at this time'",1,Medium,5,To Do,care
+103,Story,To pay the consultation fee online while booking,"As a patient, I want to pay the consultation fee online while booking, so that I skip the billing queue.",1,Medium,8,To Do,care
+104,Story,To book for a family member from my account,"As a patient, I want to book for a family member from my account, so that I can manage my parents' visits.",1,Medium,3,To Do,care
+105,Story,To reschedule my appointment to another free slot of the same doctor,"As a patient, I want to reschedule my appointment to another free slot of the same doctor, so that I don't lose my booking when plans change.
+
+Acceptance criteria:
+- Given I have a booking at 10:30 and 12:00 is free When I move it to 12:00 Then 10:30 is freed, 12:00 is booked and the confirmation number stays the same
+- Given 12:00 gets booked by someone else while I am rescheduling When I confirm 12:00 Then I see 'This slot was just taken' and my 10:30 booking is unchanged",2,Medium,3,To Do,care
+106,Story,To cancel my appointment up to 2 hours before the slot,"As a patient, I want to cancel my appointment up to 2 hours before the slot, so that the slot is freed for someone else.
+
+Acceptance criteria:
+- Given my appointment is at 16:00 and it is now 11:00 When I cancel it Then the status becomes 'Cancelled', the slot shows as free and I get a cancellation SMS
+- Given my appointment is at 16:00 and it is now 14:30 When I try to cancel Then I see 'Appointments can be cancelled up to 2 hours before' and the booking stays",2,Medium,2,To Do,care
+107,Story,To get a refund when I cancel a prepaid appointment,"As a patient, I want to get a refund when I cancel a prepaid appointment, so that I don't lose money.",2,Medium,5,To Do,care
+108,Story,An SMS and app reminder 24 hours and 2 hours before my appointment,"As a patient, I want an SMS and app reminder 24 hours and 2 hours before my appointment, so that I don't forget the visit.",3,Medium,3,To Do,care
+109,Story,To confirm or cancel from the reminder message,"As a patient, I want to confirm or cancel from the reminder message, so that I can respond in one tap.",3,Medium,3,To Do,care
+110,Story,To see my appointments for the day in order,"As a doctor, I want to see my appointments for the day in order, so that I can plan my clinic.",4,Medium,2,To Do,care
+111,Story,To block slots for leave or surgery,"As a doctor, I want to block slots for leave or surgery, so that patients cannot book when I'm unavailable.",4,Medium,5,To Do,care
+112,Story,To move all of a doctor's patients to another doctor when the doctor is absent,"As a receptionist, I want to move all of a doctor's patients to another doctor when the doctor is absent, so that patients are still seen.",4,Medium,8,To Do,care

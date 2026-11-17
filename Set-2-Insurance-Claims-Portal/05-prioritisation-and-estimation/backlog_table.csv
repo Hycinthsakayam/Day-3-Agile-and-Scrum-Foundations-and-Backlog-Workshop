@@ -1,0 +1,15 @@
+Story,Epic,User story,Priority,Story points
+S2,Claim Registration,"As a policy holder, I want to register a motor claim with incident date, place and description, so that my claim is started without visiting a branch.",Highest,5
+S5,Document Upload,"As a policy holder, I want to upload photos and PDFs of my documents from my phone, so that I don't have to courier papers.",Highest,5
+S8,Claim Tracking,"As a policy holder, I want to see the current status and next step of my claim, so that I don't need to call the helpline.",Highest,3
+S3,Claim Registration,"As a policy holder, I want to register a health claim for a hospital stay, so that I can claim reimbursement online.",High,5
+S12,Settlement Notifications,"As a policy holder, I want to see the settled amount and any deductions explained, so that I understand what I was paid.",High,5
+S1,Claim Registration,"As a policy holder, I want to log in with my policy number and an OTP, so that only I can raise claims on my policy.",High,3
+S6,Document Upload,"As a policy holder, I want to see a checklist of documents still needed for my claim, so that I submit everything in one go.",High,3
+S7,Document Upload,"As a claims officer, I want to see uploaded documents next to the claim, so that I can assess without asking for files by email.",High,3
+S11,Settlement Notifications,"As a policy holder, I want to get an SMS and email when my claim is approved or rejected, so that I know the decision immediately.",High,3
+S4,Claim Registration,"As a policy holder, I want to save a half-filled claim as a draft, so that I can finish it later.",Medium,3
+S9,Claim Tracking,"As a policy holder, I want to see the history of status changes with dates, so that I know how long each step took.",Medium,2
+S13,Settlement Notifications,"As a policy holder, I want to download the settlement letter as PDF, so that I have proof for my records.",Medium,2
+S10,Claim Tracking,"As a policy holder, I want to message the claims officer from the claim page, so that my questions are kept with the claim.",Low,8
+S14,Claim Registration,"As a branch agent, I want to register a claim on behalf of a walk-in customer, so that customers without smartphones are also served.",Low,5
