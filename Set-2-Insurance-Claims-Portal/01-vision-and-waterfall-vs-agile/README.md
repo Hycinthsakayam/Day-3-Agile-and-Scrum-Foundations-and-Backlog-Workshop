@@ -1,4 +1,4 @@
-# Vision and waterfall vs agile
+# Question 1 – Vision and waterfall vs agile
 
 **Question:** Draft the product vision and a Waterfall-versus-Agile comparison (maximum half a page) explaining why Agile suits this programme.
 
@@ -24,3 +24,12 @@ days, 30% fewer "where is my claim?" calls.
 
 Agile suits ClaimEasy because claim rules change often, users' behaviour with document upload is unknown, and the business
 gains value from releasing one claim type at a time instead of waiting for all of them.
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

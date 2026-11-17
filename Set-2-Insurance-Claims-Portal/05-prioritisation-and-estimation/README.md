@@ -1,4 +1,4 @@
-# Prioritisation and estimation
+# Question 5 – Prioritisation and estimation
 
 **Question:** Estimate every story using Planning Poker values (1, 2, 3, 5, 8, 13), record the discussion on any outlier and compute the total backlog size.
 
@@ -43,3 +43,13 @@ The 2 assumed the amount is a single field; the analyst explained deductions (de
 - Round 1: 2, 2, 2, 2, 3, 2
 
 Agreed 2 immediately.
+
+
+## Files in this folder
+
+- [backlog_table.csv](backlog_table.csv)
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

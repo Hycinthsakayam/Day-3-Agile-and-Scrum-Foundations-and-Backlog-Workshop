@@ -1,4 +1,4 @@
-# Vision and stakeholders
+# Question 1 – Vision and stakeholders
 
 **Question:** Write the vision statement and list the stakeholders; map each stakeholder to Product Owner, Scrum Master, Developer or Customer.
 
@@ -23,3 +23,12 @@ Targets: 70% of appointments booked in the app within a year, no-shows down from
 | Hospital IT (HIS integration) | Patient records and doctor master data | Customer / supporting stakeholder – gives requirements to the PO |
 | Finance (consultation fees) | Online payment of fees | Customer – input to the PO |
 | Compliance / data protection officer | Patient data privacy | Customer – constraints given to the PO |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

@@ -13,7 +13,7 @@
 
 **Deliverables**
 
-- JIRA import file and board view: [](.//)
+- JIRA import file and board view: [06-jira-board](./06-jira-board/)
 - Backlog table (story, priority, points): below and [backlog_table.csv](./05-prioritisation-and-estimation/backlog_table.csv)
 - DoR / DoD: [DoR_DoD.md](./06-jira-board/DoR_DoD.md)
 

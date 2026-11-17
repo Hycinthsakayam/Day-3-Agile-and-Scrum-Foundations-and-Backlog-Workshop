@@ -1,4 +1,4 @@
-# Epics and user stories
+# Question 2 – Epics and user stories
 
 **Question:** Create epics for Booking, Rescheduling and Cancellation, Reminders and Doctor Schedule Management, and write at least 12 user stories.
 
@@ -36,3 +36,12 @@
 | S11 | As a doctor, I want to see my appointments for the day in order, so that I can plan my clinic. |
 | S12 | As a doctor, I want to block slots for leave or surgery, so that patients cannot book when I'm unavailable. |
 | S13 | As a receptionist, I want to move all of a doctor's patients to another doctor when the doctor is absent, so that patients are still seen. |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

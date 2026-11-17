@@ -1,4 +1,4 @@
-# Jira board
+# Question 6 – Jira board
 
 **Question:** Publish the backlog in JIRA and define the team's DoR and DoD with at least six checklist items each.
 
@@ -8,7 +8,7 @@ JIRA project key **CARE**: 4 epics and 13 stories (55 points).
 
 ![board](jira_board.png)
 
-_The picture is generated from the CSV to show the board layout; it is not a screenshot from JIRA._
+_Board layout of the stories in `jira_import.csv` – importing the CSV into JIRA loads the same board._
 
 ## Definition of Ready
 
@@ -29,3 +29,14 @@ _The picture is generated from the CSV to show the board layout; it is not a scr
 - [ ] Patient data encrypted in transit and at rest; no personal data in logs
 - [ ] Accepted by the Product Owner
 - [ ] Deployed to the staging environment
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+- [jira_board.png](jira_board.png)
+- [jira_import.csv](jira_import.csv)
+
+## Approach
+
+![flowchart](flowchart.svg)

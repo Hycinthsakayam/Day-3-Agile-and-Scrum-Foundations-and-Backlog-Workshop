@@ -1,4 +1,4 @@
-# Invest review
+# Question 3 – Invest review
 
 **Question:** Apply the INVEST checklist to every story and rewrite at least two stories that fail it.
 
@@ -38,3 +38,12 @@
 | S11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Passes |
 | S12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Passes |
 | S13 | ✔ | ✔ | ✔ | ✔ | ⚠ | ✔ | S fails (13 pts) – kept as Won't for now and must be split before it can enter a sprint |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

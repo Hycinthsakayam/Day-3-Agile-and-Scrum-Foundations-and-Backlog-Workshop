@@ -1,4 +1,4 @@
-# Acceptance criteria
+# Question 4 – Acceptance criteria
 
 **Question:** Write acceptance criteria in Given / When / Then format for the Claim Registration stories, including a validation failure scenario.
 
@@ -81,3 +81,12 @@ Given I have filled half of the motor claim form
 When I tap 'Save draft'
 Then the draft appears under 'My drafts' and can be reopened for 30 days
 ```
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

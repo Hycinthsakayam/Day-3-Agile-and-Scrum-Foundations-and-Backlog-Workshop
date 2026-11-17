@@ -1,4 +1,4 @@
-# Invest review
+# Question 3 – Invest review
 
 **Question:** Review each story against INVEST and rewrite those that are not independent or testable.
 
@@ -38,3 +38,12 @@
 | S11 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Passes |
 | S12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Passes |
 | S13 | ✔ | ✔ | ✔ | ✔ | ⚠ | ✔ | S borderline (8 pts) – acceptable, will be split in refinement if needed |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

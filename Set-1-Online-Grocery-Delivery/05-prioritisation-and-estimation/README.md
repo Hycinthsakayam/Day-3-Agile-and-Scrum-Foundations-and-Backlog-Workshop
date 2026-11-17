@@ -1,4 +1,4 @@
-# Prioritisation and estimation
+# Question 5 – Prioritisation and estimation
 
 **Question:** Prioritise the backlog using MoSCoW, estimate the stories with Fibonacci story points using Planning Poker, and justify the reference story chosen.
 
@@ -49,3 +49,13 @@ The 5 assumed only UPI; once the tester reminded the team about card and COD flo
 - Round 1: 2, 2, 3, 2, 2
 
 Agreed on 2 after a short chat – it reuses the cart.
+
+
+## Files in this folder
+
+- [backlog_table.csv](backlog_table.csv)
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

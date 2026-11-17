@@ -1,14 +1,4 @@
-# Jira board
-
-**Question:** Publish the epics and stories on a JIRA board with the Definition of Ready and Definition of Done recorded.
-
-JIRA project key **FRESH**: 3 epics and 13 stories (60 points).
-
-**How to load it into JIRA:** create a Scrum project with key FRESH, then *Settings → System → External System Import → CSV*, choose `output/jira_import.csv` and map the columns (Issue Id, Issue Type, Summary, Description, Parent Id, Priority, Story Points, Status).
-
-![board](jira_board.png)
-
-_The picture is generated from the CSV to show the board layout; it is not a screenshot from JIRA._
+# FRESH – Definition of Ready and Definition of Done
 
 ## Definition of Ready
 

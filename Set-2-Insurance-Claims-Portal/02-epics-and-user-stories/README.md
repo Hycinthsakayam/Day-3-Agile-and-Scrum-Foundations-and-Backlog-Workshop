@@ -1,4 +1,4 @@
-# Epics and user stories
+# Question 2 – Epics and user stories
 
 **Question:** Define four epics (Claim Registration, Document Upload, Claim Tracking, Settlement Notifications) and split them into 12–14 user stories.
 
@@ -37,3 +37,12 @@
 | S11 | As a policy holder, I want to get an SMS and email when my claim is approved or rejected, so that I know the decision immediately. |
 | S12 | As a policy holder, I want to see the settled amount and any deductions explained, so that I understand what I was paid. |
 | S13 | As a policy holder, I want to download the settlement letter as PDF, so that I have proof for my records. |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

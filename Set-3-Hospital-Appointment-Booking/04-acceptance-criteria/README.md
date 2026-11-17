@@ -1,4 +1,4 @@
-# Acceptance criteria
+# Question 4 – Acceptance criteria
 
 **Question:** Write Given / When / Then acceptance criteria for the booking and cancellation stories (include the 'slot already taken' case).
 
@@ -69,3 +69,12 @@ Given 12:00 gets booked by someone else while I am rescheduling
 When I confirm 12:00
 Then I see 'This slot was just taken' and my 10:30 booking is unchanged
 ```
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

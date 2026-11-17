@@ -1,4 +1,4 @@
-# Invest review
+# Question 3 – Invest review
 
 **Question:** Run an INVEST review; identify stories that are too large and split them vertically rather than by technical layer.
 
@@ -39,3 +39,12 @@
 | S12 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Passes |
 | S13 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Passes |
 | S14 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Passes |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

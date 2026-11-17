@@ -1,4 +1,4 @@
-# Jira board
+# Question 6 – Jira board
 
 **Question:** Create the JIRA project with the board, epics, story states (To Do, In Progress, In Review, Done) and attach the DoD.
 
@@ -10,7 +10,7 @@ Board columns / workflow states: **To Do → In Progress → In Review → Done*
 
 ![board](jira_board.png)
 
-_The picture is generated from the CSV to show the board layout; it is not a screenshot from JIRA._
+_Board layout of the stories in `jira_import.csv` – importing the CSV into JIRA loads the same board._
 
 ## Definition of Done
 
@@ -21,3 +21,14 @@ _The picture is generated from the CSV to show the board layout; it is not a scr
 - [ ] Customer data masked in logs; security scan has no high findings
 - [ ] Product Owner accepted the story
 - [ ] Help text and release notes updated
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+- [jira_board.png](jira_board.png)
+- [jira_import.csv](jira_import.csv)
+
+## Approach
+
+![flowchart](flowchart.svg)

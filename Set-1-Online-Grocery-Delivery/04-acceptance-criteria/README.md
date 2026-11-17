@@ -1,4 +1,4 @@
-# Acceptance criteria
+# Question 4 – Acceptance criteria
 
 **Question:** Write Given / When / Then acceptance criteria for five stories, including one negative scenario.
 
@@ -93,3 +93,12 @@ Given my order is packed at the store
 When the delivery partner picks it up
 Then my order status changes to 'Out for delivery' within 1 minute
 ```
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

@@ -1,4 +1,4 @@
-# Epics and user stories
+# Question 2 – Epics and user stories
 
 **Question:** Create at least three epics (for example Browse and Search, Cart and Checkout, Delivery Tracking) and break them into 12 user stories in the 'As a / I want / so that' format.
 
@@ -31,3 +31,12 @@
 | S11 | As a customer, I want to get a notification when my order is out for delivery, so that I can be ready at the door. |
 | S12 | As a customer, I want to report a missing or damaged item after delivery, so that I get a refund without calling the store. |
 | S13 | As a customer, I want to track the delivery partner live on a map, so that I know exactly how far away they are. |
+
+
+## Files in this folder
+
+- [flowchart.svg](flowchart.svg)
+
+## Approach
+
+![flowchart](flowchart.svg)

@@ -1,4 +1,4 @@
-# Prioritisation and estimation
+# Question 5 – Prioritisation and estimation
 
 **Question:** Prioritise with business value versus effort, run a Planning Poker round, and explain how a story-point differs from an hour.
 
@@ -40,3 +40,14 @@ with other stories (S7 cancel = 2, S3 book = 5, so booking is about 2.5 times bi
 the work. An hour is an **absolute** measure of time for one person and changes with that person's skill and
 interruptions. Points are used for release and sprint planning through velocity (e.g. 20 points per sprint); hours, if
 used at all, are for breaking a story into tasks inside the sprint.
+
+
+## Files in this folder
+
+- [backlog_table.csv](backlog_table.csv)
+- [flowchart.svg](flowchart.svg)
+- [value_vs_effort.png](value_vs_effort.png)
+
+## Approach
+
+![flowchart](flowchart.svg)
